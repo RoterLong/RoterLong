@@ -3,6 +3,7 @@ RoterLong/RoterLong is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 # Hi there :wave:
+<img align="right" alt="GIF" src="http://roter.top/img/about-BY-gentle.jpg" width="344" hight="344" />
 ### I'm roter
 - :one: Java开发者 --五年经验 
 - :two: 上海左岸芯慧电子科技有限公司后端开发技术开发-leader
