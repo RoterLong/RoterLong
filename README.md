@@ -1,4 +1,4 @@
-- 👋 Hi, 我是一名java开发工程师
+- 👋 Hi, 我是一名java开发工程师,工作地方在上海
 - 👀 I’m interested in every code
 - 🌱 I’m currently learning every
 - 💞️ I’m looking to collaborate on ...
