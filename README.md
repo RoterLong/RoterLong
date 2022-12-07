@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 - :five: 虚拟机爱好者--Win/Unix系统 
 - :six: 服务器搭建者--各种数据库 web等等服务器 
 - :seven: 运动爱好者--篮球、桌球 
-- :eight: 读书爱好者--阳明心血
+- :eight: 读书爱好者--阳明心学
 - :nine: 右边是 我的个人帅照 有看上的留言哈
 
 
